@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Lounge Café</title>
+  <release-date>Q4 2026 (Early Access)</release-date>
+  <website>https://store.steampowered.com/app/4210400/Lounge_Caf/</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request>marsenstudios@gmail.com</press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam (PC)</name>
+      <link>https://store.steampowered.com/app/4210400/Lounge_Caf/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency>USD</currency>
+      <value>16.99 (Early Access)</value>
+    </price>
+  </prices>
+
+  <description>Lounge Café is an atmospheric coffee shop simulator where you play as Sara, a girl from Lucerne who moves to the coffee-centric city of Binoville in eastern Switzerland. After purchasing a small café, Sara begins her journey as a barista – choosing beans, selecting ingredients, crafting drinks, and trying to turn her place into the best spot in the city. One day, she is visited by a representative from a well-known organization who invites her to participate in a large citywide competition between cafés. The competition lasts for several months, and the main goal is to gain enough reputation and win the grand prize — proving that Sara's café truly deserves the title of the best in the entire city.</description>
+
+  <!-- Choose between a single block: -->
+  <history></history>
+
+  <features>
+    <feature>Semi-realistic coffee brewing mechanics: choose beans, milk, syrups, and spices</feature>
+    <feature>Atmospheric café simulator set in the fictional Swiss city of Binoville</feature>
+    <feature>Story-driven narrative with unique characters and a citywide competition</feature>
+    <feature>Manage prices, balance expenses, and react to market changes</feature>
+    <feature>Original lo-fi inspired soundtrack</feature>
+    <feature>13 explorable districts of Binoville (coming in updates)</feature>
+  </features>
+
+  <!--<trailers> -->
+   <!-- <trailer> -->
+    <!--  <name></name> -->
+      <!-- Pick one: -->
+    <!--  <youtube> -->
+        <!-- Video ID only, not the full URL -->
+      <!--</youtube> -->
+      <!--<vimeo> -->
+        <!-- Video ID only, not the full URL -->
+      <!--</vimeo> -->
+    <!--</trailer> -->
+  <!--</trailers> -->
+
+  <widgets>
+    <steam>4210400</steam>
+    <humble></humble>
+    <itch></itch>
+    <gamejolt></gamejolt>
+    <bandcamp></bandcamp>
+  </widgets>
+
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+  <additional>
+    <title>Release Date</title>
+    <description>Q4 2026 (Early Access)</description>
+    <link></link>
+  </additional>
+  <additional>
+    <title>Free Prologue</title>
+    <description>A free story-driven prequel is available on Steam — play as Christian, a retiring café owner, before the events of the main game.</description>
+    <link>https://store.steampowered.com/app/4288980/</link>
+  </additional>
+</additionals>
+
+  <credits>
+    <credit>
+      <person>Marko Podossinnikov</person>
+      <role>Narrative Design, Music Composition, Game Concept, UI</role>
+      <website></website>
+    </credit>
+    <credit>
+      <person>Mársen Studios Team</person>
+      <role>Technical Development, 3D Modeling</role>
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Marko Podossinnikov</name>
+      <mail>marsenstudios@gmail.com</mail>
+    </contact>
+  </contacts>
+</product>

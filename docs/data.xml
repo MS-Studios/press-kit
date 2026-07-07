@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Mársen Studios</title>
+  <based-in>Sweden</based-in>
+  <founding-date>July 28, 2023</founding-date>
+  <website></website>
+  <press-contact>marsenstudios@gmail.com</press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone></phone>
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      <!-- City -->
+    </line>
+    <line>Sweden</line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter / X</name>
+      <link>https://x.com/MarsenStudios</link>
+    </social>
+    <social>
+      <name>Discord</name>
+      <link>https://discord.gg/HKDkDnRMZc</link>
+    </social>
+    <social>
+      <name>Instagram</name>
+      <link>https://www.instagram.com/marsenstudios</link>
+    </social>
+    <social>
+      <name>Telegram</name>
+      <link>https://t.me/marsenstudios</link>
+    </social>
+  </socials>
+
+  <description>Mársen Studios is a small independent game studio based in Sweden. We are currently developing our debut title "Lounge Café".</description>
+
+  <!-- Choose between a single block: -->
+  <history></history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <!--<trailers> -->
+    <!--<trailer> -->
+     <!-- <name></name> -->
+
+      <!-- Pick one: -->
+      <!--<youtube> -->
+        <!-- Video ID only, not the full URL -->
+      <!--</youtube> -->
+      <!--<vimeo> -->
+        <!-- Video ID only, not the full URL -->
+      <!--</vimeo> -->
+    <!--</trailer> -->
+  <!--</trailers> -->
+
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person>Marko Podossinnikov</person>
+      <role>Game designer, music composition, game oncept, UI</role>
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Marko Podossinnikov</name>
+      <!-- Pick one: -->
+      <mail>marsenstudios@gmail.com</mail>
+    </contact>
+  </contacts>
+</company>
